@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5b5cdce-e2e2-4a96-8cb3-8b498c49fa7b" name="Changes" comment="add lesson1">
-      <change afterPath="$PROJECT_DIR$/lesson-2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-2/main.js" afterDir="false" />
+    <list default="true" id="f5b5cdce-e2e2-4a96-8cb3-8b498c49fa7b" name="Changes" comment="add lesson2">
+      <change afterPath="$PROJECT_DIR$/lesson----5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson----5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson---4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson---4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson---4/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson--3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson--3/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-2/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +22,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,14 +40,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +60,14 @@
       <updated>1667399977016</updated>
       <workItem from="1667399978795" duration="7155000" />
       <workItem from="1667408421567" duration="344000" />
-      <workItem from="1667493538627" duration="4902000" />
+      <workItem from="1667493538627" duration="7557000" />
+      <workItem from="1668172784217" duration="144000" />
+      <workItem from="1668460755527" duration="920000" />
+      <workItem from="1668461741062" duration="891000" />
+      <workItem from="1668595366683" duration="11441000" />
+      <workItem from="1668702701729" duration="2514000" />
+      <workItem from="1668965393103" duration="12964000" />
+      <workItem from="1669037241191" duration="2799000" />
     </task>
     <task id="LOCAL-00001" summary="add lesson1">
       <created>1667407269915</created>
@@ -60,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667407269915</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add lesson2">
+      <created>1667498672331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667498672331</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +104,7 @@
     <MESSAGE value="add to git" />
     <MESSAGE value="add" />
     <MESSAGE value="add lesson1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson1" />
+    <MESSAGE value="add lesson2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson2" />
   </component>
 </project>
